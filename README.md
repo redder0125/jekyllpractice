@@ -1,2 +1,2 @@
-# jekyll-test
+# jekyll-practice
 IDK
