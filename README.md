@@ -1,3 +1,8 @@
+---
+layout: page
+title: readme for JekyllPractice
+---
+
 # jekyll-practice
 Just test or practice
 
