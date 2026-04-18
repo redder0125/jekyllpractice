@@ -1,5 +1,7 @@
 title: "Jekyll Practice"
+logo: ./img/room_bwelgi.gif
 description: "test or practice"
+
 baseurl: "jekyllpractice"
 url: "https://redder0125.github.io"
 

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: index for JekyllPractice
+title: index
 ---
 
-# Index
+## Welcome!
 
 Hello :)
 

@@ -1,6 +1,6 @@
 ---
-layout: page
-title: readme for JekyllPractice
+layout: default
+title: readme
 ---
 
 # jekyll-practice

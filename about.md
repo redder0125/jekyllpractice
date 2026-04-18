@@ -1,7 +1,7 @@
 ---
-layout: page
-title: about for JekyllPractice
+layout: default
+title: about
 ---
 
-# About
-Just test or Practice.
+## where is this?
+Just test or Practice. and I'm Redder. Hello?
