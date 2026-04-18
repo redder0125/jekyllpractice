@@ -4,6 +4,7 @@ description: "test or practice"
 
 baseurl: "jekyllpractice"
 url: "https://redder0125.github.io"
+author: Redder
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
