@@ -1,0 +1,13 @@
+remote_theme: pages-themes/minimal@v0.2.0
+
+title: "Jekyll Practice"
+description: "test or practice"
+baseurl: "jekyllpractice"
+url: "https://redder0125.github.io"
+
+theme: minima
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .github/
