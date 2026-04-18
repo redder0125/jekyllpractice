@@ -2,4 +2,5 @@
 Just test or practice
 
 ## Credit
-- Jekyll Document: https://jekyllrb-ko.github.io/
+- Jekyll Document: https://jekyllrb.com/
+  - Korean-translated version: https://jekyllrb-ko.github.io/
