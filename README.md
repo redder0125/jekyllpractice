@@ -1,2 +1,5 @@
 # jekyll-practice
-IDK
+Just test or practice
+
+## Credit
+- Jekyll Document: https://jekyllrb-ko.github.io/
