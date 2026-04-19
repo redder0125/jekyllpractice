@@ -9,6 +9,9 @@ Hello :)
 
 The opposite of Jekyll is Hyde. lol.
 
+- [about]
+- [readme]
+
 ---
 
 ### posts
