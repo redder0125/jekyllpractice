@@ -5,7 +5,7 @@ date: 2026-04-20 16:30:00 +0900
 tags: test images
 ---
 
-![test image](../img/room_redder.png)
+![test image](../../../img/room_redder.png)
 She is Redder(It's me. Maybe)
 
 ---
