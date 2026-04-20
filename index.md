@@ -9,8 +9,9 @@ Hello :)
 
 The opposite of Jekyll is Hyde. lol.
 
-- [about]
-- [readme]
+- [about](./about)
+- [readme](./readme)
+- [top page](../index.htm)
 
 ---
 

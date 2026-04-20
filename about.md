@@ -4,4 +4,5 @@ title: about
 ---
 
 ## where is this?
-Just test or Practice. and I'm Redder. Hello?
+
+Just test or Practice. And I'm Redder. Hello?
